@@ -9,8 +9,8 @@ Caps are based on your overall stats (after buffs, passives, etc). Human Damage 
 
 You can view how your current stats compare to caps by opening the map, turning on Node War Information (crossed swords icon), and hovering over a node.
 
-{{%expand "What you should see when hovering a node" %}}![NW Caps](/NW_Caps.png){{% /expand%}}
-{{%expand "Stat sheet example" %}}![Stat Sheet](/Stat_Sheet.png){{% /expand%}}
+{{%expand "What you should see when hovering a node" %}}![NW Caps](/gearless-nw-handbook/NW_Caps.png){{% /expand%}}
+{{%expand "Stat sheet example" %}}![Stat Sheet](/gearless-nw-handbook/Stat_Sheet.png){{% /expand%}}
 
 {{% /pageinfo %}}
 

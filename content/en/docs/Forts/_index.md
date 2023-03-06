@@ -44,25 +44,25 @@ It takes 40 seconds by default to repair your fort. This can be reduced by level
 **20 seconds is the fastest repair time**.
 
 ### NW
-You'll need either ![Polished Stone](/items/Polished_Stone.png) Polished Stone or ![Impeccably Polished Stone](/items/Impeccably_Polished_Stone.png) Impeccably Polished Stone.  
+You'll need either ![Polished Stone](/gearless-nw-handbook/items/Polished_Stone.png) Polished Stone or ![Impeccably Polished Stone](/gearless-nw-handbook/items/Impeccably_Polished_Stone.png) Impeccably Polished Stone.  
 Either works, **BUT IF YOU'RE NOT USING IMPECCABLY POLISHED STONE THEN YOU'RE GRIEFING YOUR GUILD**.
 
 You can craft it by heating:  
-![Polished Stone](/items/Rough_Stone.png) Polished Stone x10  
-![Rough Translucent Crystal](/items/Rough_Translucent_Crystal.png) Rough Translucent Crystal x5  
-![Clear Liquid Reagent](/items/Clear_Liquid_Reagent.png) Clear Liquid Reagent x1  
+![Polished Stone](/gearless-nw-handbook/items/Rough_Stone.png) Polished Stone x10  
+![Rough Translucent Crystal](/gearless-nw-handbook/items/Rough_Translucent_Crystal.png) Rough Translucent Crystal x5  
+![Clear Liquid Reagent](/gearless-nw-handbook/items/Clear_Liquid_Reagent.png) Clear Liquid Reagent x1  
 
 {{% expand "Gathering Required Mats" %}}
-![Rough Translucent Crystal](/items/Rough_Translucent_Crystal.png) can be obtained from the CM or by assigning workers to Goblin Cave.  
-![Clear Liquid Reagent](/items/Clear_Liquid_Reagent.png) is always on the CM, buy it and don't waste your time.  
-![Polished Stone](/items/Polished_Stone.png) must be crafted. You'll need to gather ![Rough Stone](/items/Rough_Stone.png) Rough Stone.  
+![Rough Translucent Crystal](/gearless-nw-handbook/items/Rough_Translucent_Crystal.png) can be obtained from the CM or by assigning workers to Goblin Cave.  
+![Clear Liquid Reagent](/gearless-nw-handbook/items/Clear_Liquid_Reagent.png) is always on the CM, buy it and don't waste your time.  
+![Polished Stone](/gearless-nw-handbook/items/Polished_Stone.png) must be crafted. You'll need to gather ![Rough Stone](/gearless-nw-handbook/items/Rough_Stone.png) Rough Stone.  
 <br>
 The most efficient place to gather rough stone is Pilgrim's Haven, a node northeast of Sand Grain Bazaar.  
-![Pilgrim's Haven](/Pilgrims_Haven.jpg)  
+![Pilgrim's Haven](/gearless-nw-handbook/Pilgrims_Haven.jpg)  
 <br>
 Around it you'll find piles of stone, and you can gather from each pile multiple times.  
 **MAKE SURE YOU USE AGRIS WHEN GATHERING, YOU'LL WASTE LESS TIME HERE.**  
-![Pilgrim's Haven Stone Piles](/Pilgrims_Haven_Stone_Piles.png)
+![Pilgrim's Haven Stone Piles](/gearless-nw-handbook/Pilgrims_Haven_Stone_Piles.png)
 {{% /expand %}}
 
 ### Siege
