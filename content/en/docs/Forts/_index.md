@@ -48,7 +48,7 @@ You'll need either ![Polished Stone](/gearless-nw-handbook/items/Polished_Stone.
 Either works, **BUT IF YOU'RE NOT USING IMPECCABLY POLISHED STONE THEN YOU'RE GRIEFING YOUR GUILD**.
 
 You can craft it by heating:  
-![Polished Stone](/gearless-nw-handbook/items/Rough_Stone.png) Polished Stone x10  
+![Polished Stone](/gearless-nw-handbook/items/Polished_Stone.png) Polished Stone x10  
 ![Rough Translucent Crystal](/gearless-nw-handbook/items/Rough_Translucent_Crystal.png) Rough Translucent Crystal x5  
 ![Clear Liquid Reagent](/gearless-nw-handbook/items/Clear_Liquid_Reagent.png) Clear Liquid Reagent x1  
 
