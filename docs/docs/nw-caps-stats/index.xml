@@ -1,0 +1,858 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gearless NW Handbook – NW Caps &amp; Stats</title>
+    <link>https://keswiik.github.io/gearless-nw-handbook/docs/nw-caps-stats/</link>
+    <description>Recent content in NW Caps &amp; Stats on Gearless NW Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	  <atom:link href="https://keswiik.github.io/gearless-nw-handbook/docs/nw-caps-stats/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Buffs</title>
+      <link>https://keswiik.github.io/gearless-nw-handbook/docs/nw-caps-stats/buffs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://keswiik.github.io/gearless-nw-handbook/docs/nw-caps-stats/buffs/</guid>
+      <description>
+        
+        
+        
+
+
+
+
+
+
+&lt;ul class=&#34;nav nav-tabs&#34; id=&#34;tabs-0&#34; role=&#34;tablist&#34;&gt;
+  &lt;li class=&#34;nav-item&#34;&gt;
+      &lt;a class=&#34;nav-link disabled&#34;
+          id=&#34;tabs-00-00-tab&#34; data-toggle=&#34;tab&#34; href=&#34;#tabs-00-00&#34; role=&#34;tab&#34;
+          aria-controls=&#34;tabs-00-00&#34; aria-selected=&#34;false&#34;&gt;
+        Buffs:
+      &lt;/a&gt;
+    &lt;/li&gt;&lt;li class=&#34;nav-item&#34;&gt;
+      &lt;a class=&#34;nav-link active&#34;
+          id=&#34;tabs-00-01-tab&#34; data-toggle=&#34;tab&#34; href=&#34;#tabs-00-01&#34; role=&#34;tab&#34;
+          aria-controls=&#34;tabs-00-01&#34; aria-selected=&#34;false&#34;&gt;
+        Villa
+      &lt;/a&gt;
+    &lt;/li&gt;&lt;li class=&#34;nav-item&#34;&gt;
+      &lt;a class=&#34;nav-link&#34;
+          id=&#34;tabs-00-02-tab&#34; data-toggle=&#34;tab&#34; href=&#34;#tabs-00-02&#34; role=&#34;tab&#34;
+          aria-controls=&#34;tabs-00-02&#34; aria-selected=&#34;false&#34;&gt;
+        Church
+      &lt;/a&gt;
+    &lt;/li&gt;&lt;li class=&#34;nav-item&#34;&gt;
+      &lt;a class=&#34;nav-link&#34;
+          id=&#34;tabs-00-03-tab&#34; data-toggle=&#34;tab&#34; href=&#34;#tabs-00-03&#34; role=&#34;tab&#34;
+          aria-controls=&#34;tabs-00-03&#34; aria-selected=&#34;false&#34;&gt;
+        Consumables
+      &lt;/a&gt;
+    &lt;/li&gt;&lt;li class=&#34;nav-item&#34;&gt;
+      &lt;a class=&#34;nav-link&#34;
+          id=&#34;tabs-00-04-tab&#34; data-toggle=&#34;tab&#34; href=&#34;#tabs-00-04&#34; role=&#34;tab&#34;
+          aria-controls=&#34;tabs-00-04&#34; aria-selected=&#34;false&#34;&gt;
+        Elixirs
+      &lt;/a&gt;
+    &lt;/li&gt;&lt;li class=&#34;nav-item&#34;&gt;
+      &lt;a class=&#34;nav-link&#34;
+          id=&#34;tabs-00-05-tab&#34; data-toggle=&#34;tab&#34; href=&#34;#tabs-00-05&#34; role=&#34;tab&#34;
+          aria-controls=&#34;tabs-00-05&#34; aria-selected=&#34;false&#34;&gt;
+        Misc
+      &lt;/a&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&#34;tab-content&#34; id=&#34;tabs-0-content&#34;&gt;
+    &lt;div class=&#34;tab-body tab-pane fade&#34;
+        id=&#34;tabs-00-00&#34; role=&#34;tabpanel&#34; aria-labelled-by=&#34;tabs-00-00-tab&#34;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&#34;tab-body tab-pane fade show active&#34;
+        id=&#34;tabs-00-01&#34; role=&#34;tabpanel&#34; aria-labelled-by=&#34;tabs-00-01-tab&#34;&gt;
+        &lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Name&lt;/th&gt;
+&lt;th&gt;Effect&lt;/th&gt;
+&lt;th&gt;Acquired At&lt;/th&gt;
+&lt;th&gt;T1&lt;/th&gt;
+&lt;th&gt;T2&lt;/th&gt;
+&lt;th&gt;T3&lt;/th&gt;
+&lt;th&gt;T4&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;[Villa] Body Enhancement&lt;/td&gt;
+&lt;td&gt;All AP +10&lt;br&gt;All DP +10&lt;br&gt;Max HP +200&lt;br&gt;All Resistance +10%&lt;br&gt;Ignore All Resistance +5%&lt;/td&gt;
+&lt;td&gt;Tent (with old moon book)&lt;br&gt;Any Villa&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+    &lt;/div&gt;
+    &lt;div class=&#34;tab-body tab-pane fade&#34;
+        id=&#34;tabs-00-02&#34; role=&#34;tabpanel&#34; aria-labelled-by=&#34;tabs-00-02-tab&#34;&gt;
+        &lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Name&lt;/th&gt;
+&lt;th&gt;Effect&lt;/th&gt;
+&lt;th&gt;Acquired At&lt;/th&gt;
+&lt;th&gt;T1&lt;/th&gt;
+&lt;th&gt;T2&lt;/th&gt;
+&lt;th&gt;T3&lt;/th&gt;
+&lt;th&gt;T4&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Elionism&amp;rsquo;s Blessing - Attack&lt;/td&gt;
+&lt;td&gt;All AP +8&lt;br&gt;All Accuracy +8&lt;/td&gt;
+&lt;td&gt;Churches in any main town / city. See below.&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Elionism&amp;rsquo;s Blessing - Protection&lt;/td&gt;
+&lt;td&gt;All Damage Reduction +8&lt;br&gt;Max HP +150&lt;/td&gt;
+&lt;td&gt;Churches in any main town / city. See below.&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+    &lt;/div&gt;
+    &lt;div class=&#34;tab-body tab-pane fade&#34;
+        id=&#34;tabs-00-03&#34; role=&#34;tabpanel&#34; aria-labelled-by=&#34;tabs-00-03-tab&#34;&gt;
+        &lt;div id=&#34;food&#34; class=&#34;md-expand&#34;&gt;
+&lt;label for=&#34;expander-138&#34;&gt;
+&lt;div class=&#34;md-expand-head&#34;&gt;
+&lt;span&gt;Food&lt;/span&gt;
+&lt;/div&gt;
+&lt;/label&gt;
+&lt;input id=&#34;expander-138&#34; type=&#34;checkbox&#34; class=&#34;hidden&#34; /&gt;
+&lt;div class=&#34;md-expand-content markdown-inner&#34;&gt;
+&lt;div class=&#34;md-content&#34;&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Name&lt;/th&gt;
+&lt;th&gt;Effect&lt;/th&gt;
+&lt;th&gt;Acquired At&lt;/th&gt;
+&lt;th&gt;T1&lt;/th&gt;
+&lt;th&gt;T2&lt;/th&gt;
+&lt;th&gt;T3&lt;/th&gt;
+&lt;th&gt;T4&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Exquisite Cron Meal&lt;/td&gt;
+&lt;td&gt;All AP +8&lt;br&gt;All Accuracy +15&lt;br&gt;Attack/Casting Speed +2&lt;br&gt;Movement Speed +2&lt;br&gt;Critical Hit +2&lt;br&gt;All Evasion +15&lt;br&gt;Max HP +150&lt;br&gt;Max Stamina +200&lt;br&gt;Back Attack Damage +5%&lt;br&gt;Critical Hit Damage +5%&lt;br&gt;All Resistance +4%&lt;br&gt;Ignore All Resistance +4%&lt;/td&gt;
+&lt;td&gt;Buy from CM&lt;br&gt;Processing&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;draughts&#34; class=&#34;md-expand&#34;&gt;
+&lt;label for=&#34;expander-601&#34;&gt;
+&lt;div class=&#34;md-expand-head&#34;&gt;
+&lt;span&gt;Draughts&lt;/span&gt;
+&lt;/div&gt;
+&lt;/label&gt;
+&lt;input id=&#34;expander-601&#34; type=&#34;checkbox&#34; class=&#34;hidden&#34; /&gt;
+&lt;div class=&#34;md-expand-content markdown-inner&#34;&gt;
+&lt;div class=&#34;md-content&#34;&gt;
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;Only 1 draught can be active at a time.&lt;/p&gt;
+&lt;/div&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Name&lt;/th&gt;
+&lt;th&gt;Effect&lt;/th&gt;
+&lt;th&gt;Acquired At&lt;/th&gt;
+&lt;th&gt;T1&lt;/th&gt;
+&lt;th&gt;T2&lt;/th&gt;
+&lt;th&gt;T3&lt;/th&gt;
+&lt;th&gt;T4&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Giant&amp;rsquo;s Draught&lt;/td&gt;
+&lt;td&gt;All AP +10&lt;br&gt;Max HP +150&lt;br&gt;Special Attack Damage +10%&lt;br&gt;Movement Speed +3&lt;br&gt;Critical Hit +3&lt;br&gt;Max Stamina +200&lt;/td&gt;
+&lt;td&gt;Buy from CM&lt;br&gt;Alchemy&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Elixir of Indignation&lt;/td&gt;
+&lt;td&gt;Extra Damage to Humans +25&lt;br&gt;Special Attack Damage +12%&lt;br&gt;Movement Speed +3&lt;br&gt;Critical Hit +3&lt;br&gt;Max Stamina +200&lt;br&gt;Max HP -150&lt;br&gt;All Damage Reduction -20&lt;br&gt;All Evasion -20&lt;/td&gt;
+&lt;td&gt;Buy from CM&lt;br&gt;Alchemy&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Armor Draught&lt;/td&gt;
+&lt;td&gt;All Damage Reduction +15&lt;br&gt;All Evasion +10&lt;br&gt;Damage from Monsters -12%&lt;br&gt;Max HP +300&lt;br&gt;Ignore All Resistance +5%&lt;br&gt;All AP -15&lt;/td&gt;
+&lt;td&gt;Buy from CM&lt;br&gt;Alchemy&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;perfumes&#34; class=&#34;md-expand&#34;&gt;
+&lt;label for=&#34;expander-187&#34;&gt;
+&lt;div class=&#34;md-expand-head&#34;&gt;
+&lt;span&gt;Perfumes&lt;/span&gt;
+&lt;/div&gt;
+&lt;/label&gt;
+&lt;input id=&#34;expander-187&#34; type=&#34;checkbox&#34; class=&#34;hidden&#34; /&gt;
+&lt;div class=&#34;md-expand-content markdown-inner&#34;&gt;
+&lt;div class=&#34;md-content&#34;&gt;
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;Only 1 perfume can be active at a time.&lt;/p&gt;
+&lt;/div&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Name&lt;/th&gt;
+&lt;th&gt;Effect&lt;/th&gt;
+&lt;th&gt;Acquired At&lt;/th&gt;
+&lt;th&gt;T1&lt;/th&gt;
+&lt;th&gt;T2&lt;/th&gt;
+&lt;th&gt;T3&lt;/th&gt;
+&lt;th&gt;T4&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Perfume of Courage&lt;/td&gt;
+&lt;td&gt;All AP +20&lt;br&gt;Max HP +200&lt;br&gt;Attack Speed +5&lt;br&gt;Casting Speed +5&lt;br&gt;Movement Speed +5&lt;/td&gt;
+&lt;td&gt;Buy from CM&lt;br&gt;Alchemy&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Perfume of Insight&lt;/td&gt;
+&lt;td&gt;All Accuracy +15&lt;br&gt;Ignore All Resistance +3%&lt;br&gt;Max HP +100&lt;br&gt;Attack Speed +5&lt;br&gt;Casting Speed +5&lt;br&gt;Movement Speed +5&lt;/td&gt;
+&lt;td&gt;Buy from CM&lt;br&gt;Alchemy&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Spirit Perfume Elixir&lt;/td&gt;
+&lt;td&gt;Max HP +300&lt;br&gt; Critical Hit Rate +5&lt;br&gt;Recover +3 MP/WP/SP per hit&lt;/td&gt;
+&lt;td&gt;Buy from CM&lt;br&gt;Alchemy&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Elixir of Deep Sea&lt;/td&gt;
+&lt;td&gt;All AP +10&lt;br&gt;Max Stamina +100&lt;br&gt;Back Attack Damage +10%&lt;br&gt;Down Attack Damage +10%&lt;br&gt;Air Attack Damage +10%&lt;/td&gt;
+&lt;td&gt;Buy from CM&lt;br&gt;Alchemy&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Khalk&amp;rsquo;s Elixir&lt;/td&gt;
+&lt;td&gt;All Resistance +10%&lt;br&gt;Damage Reduction +15&lt;br&gt;Max HP +100&lt;br&gt;Movement Speed +5%&lt;/td&gt;
+&lt;td&gt;Buy from CM&lt;br&gt;Alchemy&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Perfume of Charm&lt;/td&gt;
+&lt;td&gt;All Evasion +15&lt;br&gt;Max HP +200&lt;br&gt;Special Attack Evasion Rate +10%&lt;/td&gt;
+&lt;td&gt;Buy from CM&lt;br&gt;Alchemy&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+    &lt;/div&gt;
+    &lt;div class=&#34;tab-body tab-pane fade&#34;
+        id=&#34;tabs-00-04&#34; role=&#34;tabpanel&#34; aria-labelled-by=&#34;tabs-00-04-tab&#34;&gt;
+        &lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;Running a proper elixir rotation takes a &lt;em&gt;lot&lt;/em&gt; more effort than popping draughts / perfumes. Not recommended unless you have at least Continuous Cheer IV on your fairy.&lt;br&gt;
+Some example elixir rotations can be found &lt;a href=&#34;https://keswiik.github.io/gearless-nw-handbook/docs/nw-caps-stats/buffs/elixirs&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Name&lt;/th&gt;
+&lt;th&gt;Effect&lt;/th&gt;
+&lt;th&gt;T1&lt;/th&gt;
+&lt;th&gt;T2&lt;/th&gt;
+&lt;th&gt;T3&lt;/th&gt;
+&lt;th&gt;T4&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Elixir of Strong Life&lt;/td&gt;
+&lt;td&gt;Max HP +150&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Elixir of Clear Mentality&lt;/td&gt;
+&lt;td&gt;Max MP +150&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Elixir of Steel Defense&lt;/td&gt;
+&lt;td&gt;All Damage Reduction +10&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Elixir of Strong Shock&lt;/td&gt;
+&lt;td&gt;Critical Hit +3&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Elixir of Lethal Destruction&lt;/td&gt;
+&lt;td&gt;Special Attack Damage +2%&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Elixir of Corrupted Armor&lt;/td&gt;
+&lt;td&gt;All Damage Reduction +12&lt;br&gt;Damage from Monsters -10%&lt;br&gt;All AP -5&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Elixir of Perfect Human Hunt&lt;/td&gt;
+&lt;td&gt;Extra Damage +11 to Humans&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Elixir of Endless Frenzy&lt;/td&gt;
+&lt;td&gt;All DP -8&lt;br&gt;All AP +13&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Elixir of Strong Draining&lt;/td&gt;
+&lt;td&gt;Recover +5 HP per Critical Hit&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Elixir of Brutal Perforation&lt;/td&gt;
+&lt;td&gt;Defense Nullifying Damage +10 per Back Attack&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Elixir of Intrepid Swiftness&lt;/td&gt;
+&lt;td&gt;Movement Speed +3&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Elixir of Agile Spells&lt;/td&gt;
+&lt;td&gt;Casting Speed +3&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Elixir of Flowing Wind&lt;/td&gt;
+&lt;td&gt;Attack Speed + 3&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Surging Energy Elixir&lt;/td&gt;
+&lt;td&gt;MP Auto Recovery +15&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Soaring Wings Elixir&lt;/td&gt;
+&lt;td&gt;Jump Height Up&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Elixir of Endless Fury&lt;/td&gt;
+&lt;td&gt;All AP +8&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Grim Soul Reaper&amp;rsquo;s Elixir&lt;/td&gt;
+&lt;td&gt;Recover +3 HP per hit&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Elixir of Brutal Carnage&lt;/td&gt;
+&lt;td&gt;Down Attack Damage +15%&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Merciless Sky Elixir&lt;/td&gt;
+&lt;td&gt;Air Attack Damage +15%&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Elixir of Lethal Assassin&lt;/td&gt;
+&lt;td&gt;Back Attack Damage +15%&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Elixir of Sharp Detection&lt;/td&gt;
+&lt;td&gt;Critical Hit Damage +15%&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Elixir of Overwhelming Endurance&lt;/td&gt;
+&lt;td&gt;Max Stamina +150&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Strong Resurrection Elixir&lt;/td&gt;
+&lt;td&gt;HP Recovery +15&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Splendid Helix Elixir&lt;/td&gt;
+&lt;td&gt;All Evasion +12&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+    &lt;/div&gt;
+    &lt;div class=&#34;tab-body tab-pane fade&#34;
+        id=&#34;tabs-00-05&#34; role=&#34;tabpanel&#34; aria-labelled-by=&#34;tabs-00-05-tab&#34;&gt;
+        &lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Name&lt;/th&gt;
+&lt;th&gt;Effect&lt;/th&gt;
+&lt;th&gt;Acquired At&lt;/th&gt;
+&lt;th&gt;T1&lt;/th&gt;
+&lt;th&gt;T2&lt;/th&gt;
+&lt;th&gt;T3&lt;/th&gt;
+&lt;th&gt;T4&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Carolin&amp;rsquo;s Kindness&lt;/td&gt;
+&lt;td&gt;Critical Hit Damage +10%&lt;/td&gt;
+&lt;td&gt;Carolin in Heidel, requires amity.&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;recommended-capped-buff-list&#34; class=&#34;md-expand&#34;&gt;
+&lt;label for=&#34;expander-751&#34;&gt;
+&lt;div class=&#34;md-expand-head&#34;&gt;
+&lt;span&gt;Recommended Capped Buff List&lt;/span&gt;
+&lt;/div&gt;
+&lt;/label&gt;
+&lt;input id=&#34;expander-751&#34; type=&#34;checkbox&#34; class=&#34;hidden&#34; /&gt;
+&lt;div class=&#34;md-expand-content markdown-inner&#34;&gt;
+&lt;div class=&#34;md-content&#34;&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Buff Name&lt;/th&gt;
+&lt;th&gt;Notes&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;[Villa] Body Enhancement&lt;/td&gt;
+&lt;td&gt;Can be ignored in T1s if you meet all caps without it.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Elionism&amp;rsquo;s Blessing - Attack&lt;/td&gt;
+&lt;td&gt;Can be ignored in T1s if you meet all caps without it.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Elionism&amp;rsquo;s Blessing - Protection&lt;/td&gt;
+&lt;td&gt;Can be ignored in T1s if you meet all caps without it.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Giant&amp;rsquo;s Draught&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;MANDATORY&lt;/strong&gt; for any capped NW.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Spirit Perfume Elixir&lt;/td&gt;
+&lt;td&gt;Optional, but very nice to have due to the HP.&lt;br&gt;Hard to get on the CM, you&amp;rsquo;ll have to gather the mats to make them yourself.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Exquisite Cron Meal&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;MANDATORY&lt;/strong&gt; for any capped NW.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Carolin&amp;rsquo;s Kindness&lt;/td&gt;
+&lt;td&gt;Only lasts for 30m, but &lt;strong&gt;VERY&lt;/strong&gt; nice to have.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Gear</title>
+      <link>https://keswiik.github.io/gearless-nw-handbook/docs/nw-caps-stats/gear/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://keswiik.github.io/gearless-nw-handbook/docs/nw-caps-stats/gear/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;capped-nodes&#34;&gt;Capped Nodes&lt;/h2&gt;
+&lt;p&gt;You&amp;rsquo;ll want to stack HP, attack modifiers, and special attack evasion when doing T1-3 nodes.&lt;/p&gt;
+&lt;h3 id=&#34;crystals&#34;&gt;Crystals&lt;/h3&gt;
+
+
+
+
+
+
+&lt;ul class=&#34;nav nav-tabs&#34; id=&#34;tabs-0&#34; role=&#34;tablist&#34;&gt;
+  &lt;li class=&#34;nav-item&#34;&gt;
+      &lt;a class=&#34;nav-link disabled&#34;
+          id=&#34;tabs-00-00-tab&#34; data-toggle=&#34;tab&#34; href=&#34;#tabs-00-00&#34; role=&#34;tab&#34;
+          aria-controls=&#34;tabs-00-00&#34; aria-selected=&#34;false&#34;&gt;
+        HP Crystals:
+      &lt;/a&gt;
+    &lt;/li&gt;&lt;li class=&#34;nav-item&#34;&gt;
+      &lt;a class=&#34;nav-link active&#34;
+          id=&#34;tabs-00-01-tab&#34; data-toggle=&#34;tab&#34; href=&#34;#tabs-00-01&#34; role=&#34;tab&#34;
+          aria-controls=&#34;tabs-00-01&#34; aria-selected=&#34;false&#34;&gt;
+        Rebellious Spirit Crystal
+      &lt;/a&gt;
+    &lt;/li&gt;&lt;li class=&#34;nav-item&#34;&gt;
+      &lt;a class=&#34;nav-link&#34;
+          id=&#34;tabs-00-02-tab&#34; data-toggle=&#34;tab&#34; href=&#34;#tabs-00-02&#34; role=&#34;tab&#34;
+          aria-controls=&#34;tabs-00-02&#34; aria-selected=&#34;false&#34;&gt;
+        HAN Hoom
+      &lt;/a&gt;
+    &lt;/li&gt;&lt;li class=&#34;nav-item&#34;&gt;
+      &lt;a class=&#34;nav-link&#34;
+          id=&#34;tabs-00-03-tab&#34; data-toggle=&#34;tab&#34; href=&#34;#tabs-00-03&#34; role=&#34;tab&#34;
+          aria-controls=&#34;tabs-00-03&#34; aria-selected=&#34;false&#34;&gt;
+        BON Cobelinus
+      &lt;/a&gt;
+    &lt;/li&gt;&lt;li class=&#34;nav-item&#34;&gt;
+      &lt;a class=&#34;nav-link&#34;
+          id=&#34;tabs-00-04-tab&#34; data-toggle=&#34;tab&#34; href=&#34;#tabs-00-04&#34; role=&#34;tab&#34;
+          aria-controls=&#34;tabs-00-04&#34; aria-selected=&#34;false&#34;&gt;
+        RBF Cobelinus
+      &lt;/a&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&#34;tab-content&#34; id=&#34;tabs-0-content&#34;&gt;
+    &lt;div class=&#34;tab-body tab-pane fade&#34;
+        id=&#34;tabs-00-00&#34; role=&#34;tabpanel&#34; aria-labelled-by=&#34;tabs-00-00-tab&#34;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&#34;tab-body tab-pane fade show active&#34;
+        id=&#34;tabs-00-01&#34; role=&#34;tabpanel&#34; aria-labelled-by=&#34;tabs-00-01-tab&#34;&gt;
+        &lt;p&gt;&lt;img src=&#34;https://keswiik.github.io/gearless-nw-handbook/crystals/Rebellious_Spirit_Crystal.png&#34; alt=&#34;Rebellious Spirit Crystal&#34;&gt;&lt;/p&gt;
+
+    &lt;/div&gt;
+    &lt;div class=&#34;tab-body tab-pane fade&#34;
+        id=&#34;tabs-00-02&#34; role=&#34;tabpanel&#34; aria-labelled-by=&#34;tabs-00-02-tab&#34;&gt;
+        &lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;You need to run either &lt;strong&gt;TWO&lt;/strong&gt; or &lt;strong&gt;FOUR&lt;/strong&gt; of these due to the set effect, which is where most of the HP comes from.&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;img src=&#34;https://keswiik.github.io/gearless-nw-handbook/crystals/HAN_Hoom.png&#34; alt=&#34;HAN Hoom&#34;&gt;&lt;/p&gt;
+
+    &lt;/div&gt;
+    &lt;div class=&#34;tab-body tab-pane fade&#34;
+        id=&#34;tabs-00-03&#34; role=&#34;tabpanel&#34; aria-labelled-by=&#34;tabs-00-03-tab&#34;&gt;
+        &lt;p&gt;&lt;img src=&#34;https://keswiik.github.io/gearless-nw-handbook/crystals/BON_Cobelinus.png&#34; alt=&#34;BON Cobelinus&#34;&gt;&lt;/p&gt;
+
+    &lt;/div&gt;
+    &lt;div class=&#34;tab-body tab-pane fade&#34;
+        id=&#34;tabs-00-04&#34; role=&#34;tabpanel&#34; aria-labelled-by=&#34;tabs-00-04-tab&#34;&gt;
+        &lt;p&gt;&lt;img src=&#34;https://keswiik.github.io/gearless-nw-handbook/crystals/RBF_Cobelinus.png&#34; alt=&#34;RBF Cobelinus&#34;&gt;&lt;/p&gt;
+
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;ul class=&#34;nav nav-tabs&#34; id=&#34;tabs-1&#34; role=&#34;tablist&#34;&gt;
+  &lt;li class=&#34;nav-item&#34;&gt;
+      &lt;a class=&#34;nav-link disabled&#34;
+          id=&#34;tabs-01-00-tab&#34; data-toggle=&#34;tab&#34; href=&#34;#tabs-01-00&#34; role=&#34;tab&#34;
+          aria-controls=&#34;tabs-01-00&#34; aria-selected=&#34;false&#34;&gt;
+        Special Evasion Crystals:
+      &lt;/a&gt;
+    &lt;/li&gt;&lt;li class=&#34;nav-item&#34;&gt;
+      &lt;a class=&#34;nav-link active&#34;
+          id=&#34;tabs-01-01-tab&#34; data-toggle=&#34;tab&#34; href=&#34;#tabs-01-01&#34; role=&#34;tab&#34;
+          aria-controls=&#34;tabs-01-01&#34; aria-selected=&#34;false&#34;&gt;
+        JIN Special Evasion
+      &lt;/a&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&#34;tab-content&#34; id=&#34;tabs-1-content&#34;&gt;
+    &lt;div class=&#34;tab-body tab-pane fade&#34;
+        id=&#34;tabs-01-00&#34; role=&#34;tabpanel&#34; aria-labelled-by=&#34;tabs-01-00-tab&#34;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&#34;tab-body tab-pane fade show active&#34;
+        id=&#34;tabs-01-01&#34; role=&#34;tabpanel&#34; aria-labelled-by=&#34;tabs-01-01-tab&#34;&gt;
+        &lt;p&gt;&lt;img src=&#34;https://keswiik.github.io/gearless-nw-handbook/crystals/JIN_Special_Evasion.png&#34; alt=&#34;JIN Special Evasion&#34;&gt;&lt;/p&gt;
+
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;ul class=&#34;nav nav-tabs&#34; id=&#34;tabs-2&#34; role=&#34;tablist&#34;&gt;
+  &lt;li class=&#34;nav-item&#34;&gt;
+      &lt;a class=&#34;nav-link disabled&#34;
+          id=&#34;tabs-02-00-tab&#34; data-toggle=&#34;tab&#34; href=&#34;#tabs-02-00&#34; role=&#34;tab&#34;
+          aria-controls=&#34;tabs-02-00&#34; aria-selected=&#34;false&#34;&gt;
+        DMG Modifier Crystals:
+      &lt;/a&gt;
+    &lt;/li&gt;&lt;li class=&#34;nav-item&#34;&gt;
+      &lt;a class=&#34;nav-link active&#34;
+          id=&#34;tabs-02-01-tab&#34; data-toggle=&#34;tab&#34; href=&#34;#tabs-02-01&#34; role=&#34;tab&#34;
+          aria-controls=&#34;tabs-02-01&#34; aria-selected=&#34;false&#34;&gt;
+        Corrupted Magic Crystal
+      &lt;/a&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&#34;tab-content&#34; id=&#34;tabs-2-content&#34;&gt;
+    &lt;div class=&#34;tab-body tab-pane fade&#34;
+        id=&#34;tabs-02-00&#34; role=&#34;tabpanel&#34; aria-labelled-by=&#34;tabs-02-00-tab&#34;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&#34;tab-body tab-pane fade show active&#34;
+        id=&#34;tabs-02-01&#34; role=&#34;tabpanel&#34; aria-labelled-by=&#34;tabs-02-01-tab&#34;&gt;
+        &lt;p&gt;&lt;img src=&#34;https://keswiik.github.io/gearless-nw-handbook/crystals/Corrupted_Magic_Crystal.png&#34; alt=&#34;Corrupted Magic Crystal&#34;&gt;&lt;/p&gt;
+
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;accessories&#34;&gt;Accessories&lt;/h3&gt;
+&lt;p&gt;There are two different accessories you can buy in trent that give special attack modifiers. Without these, your damage on capped nodes will feel horrible.&lt;/p&gt;
+
+
+
+
+&lt;ul class=&#34;nav nav-tabs&#34; id=&#34;tabs-3&#34; role=&#34;tablist&#34;&gt;
+  &lt;li class=&#34;nav-item&#34;&gt;
+      &lt;a class=&#34;nav-link disabled&#34;
+          id=&#34;tabs-03-00-tab&#34; data-toggle=&#34;tab&#34; href=&#34;#tabs-03-00&#34; role=&#34;tab&#34;
+          aria-controls=&#34;tabs-03-00&#34; aria-selected=&#34;false&#34;&gt;
+        Accessories:
+      &lt;/a&gt;
+    &lt;/li&gt;&lt;li class=&#34;nav-item&#34;&gt;
+      &lt;a class=&#34;nav-link active&#34;
+          id=&#34;tabs-03-01-tab&#34; data-toggle=&#34;tab&#34; href=&#34;#tabs-03-01&#34; role=&#34;tab&#34;
+          aria-controls=&#34;tabs-03-01&#34; aria-selected=&#34;false&#34;&gt;
+        Chimera&amp;rsquo;s Pupil Gem
+      &lt;/a&gt;
+    &lt;/li&gt;&lt;li class=&#34;nav-item&#34;&gt;
+      &lt;a class=&#34;nav-link&#34;
+          id=&#34;tabs-03-02-tab&#34; data-toggle=&#34;tab&#34; href=&#34;#tabs-03-02&#34; role=&#34;tab&#34;
+          aria-controls=&#34;tabs-03-02&#34; aria-selected=&#34;false&#34;&gt;
+        Kaia Necklace
+      &lt;/a&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&#34;tab-content&#34; id=&#34;tabs-3-content&#34;&gt;
+    &lt;div class=&#34;tab-body tab-pane fade&#34;
+        id=&#34;tabs-03-00&#34; role=&#34;tabpanel&#34; aria-labelled-by=&#34;tabs-03-00-tab&#34;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&#34;tab-body tab-pane fade show active&#34;
+        id=&#34;tabs-03-01&#34; role=&#34;tabpanel&#34; aria-labelled-by=&#34;tabs-03-01-tab&#34;&gt;
+        &lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;&lt;strong&gt;MANDATORY&lt;/strong&gt; for all capped content. These are extremely important to have and cheap to buy. You&amp;rsquo;re griefing yourself and your guildies if you don&amp;rsquo;t equip them.&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;img src=&#34;https://keswiik.github.io/gearless-nw-handbook/gear/Chimeras_Pupil_Gem.png&#34; alt=&#34;Chimera&amp;amp;rsquo;s Pupil Gem&#34;&gt;&lt;/p&gt;
+
+    &lt;/div&gt;
+    &lt;div class=&#34;tab-body tab-pane fade&#34;
+        id=&#34;tabs-03-02&#34; role=&#34;tabpanel&#34; aria-labelled-by=&#34;tabs-03-02-tab&#34;&gt;
+        &lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;&lt;strong&gt;MANDATORY&lt;/strong&gt; on T1s since the caps are so low.&lt;br&gt;
+Can be useful on T2s, but you&amp;rsquo;re sacrificing HP.&lt;br&gt;
+Have to be extremely geared in order to equip them on T3s as the caps are higher.&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;img src=&#34;https://keswiik.github.io/gearless-nw-handbook/gear/Kaia_Necklace.png&#34; alt=&#34;Kaia Necklace&#34;&gt;&lt;/p&gt;
+
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;weapons&#34;&gt;Weapons&lt;/h3&gt;
+
+
+
+&lt;ul class=&#34;nav nav-tabs&#34; id=&#34;tabs-4&#34; role=&#34;tablist&#34;&gt;
+  &lt;li class=&#34;nav-item&#34;&gt;
+      &lt;a class=&#34;nav-link disabled&#34;
+          id=&#34;tabs-04-00-tab&#34; data-toggle=&#34;tab&#34; href=&#34;#tabs-04-00&#34; role=&#34;tab&#34;
+          aria-controls=&#34;tabs-04-00&#34; aria-selected=&#34;false&#34;&gt;
+        Weapons:
+      &lt;/a&gt;
+    &lt;/li&gt;&lt;li class=&#34;nav-item&#34;&gt;
+      &lt;a class=&#34;nav-link active&#34;
+          id=&#34;tabs-04-01-tab&#34; data-toggle=&#34;tab&#34; href=&#34;#tabs-04-01&#34; role=&#34;tab&#34;
+          aria-controls=&#34;tabs-04-01&#34; aria-selected=&#34;false&#34;&gt;
+        Green AP Offhand
+      &lt;/a&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&#34;tab-content&#34; id=&#34;tabs-4-content&#34;&gt;
+    &lt;div class=&#34;tab-body tab-pane fade&#34;
+        id=&#34;tabs-04-00&#34; role=&#34;tabpanel&#34; aria-labelled-by=&#34;tabs-04-00-tab&#34;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&#34;tab-body tab-pane fade show active&#34;
+        id=&#34;tabs-04-01&#34; role=&#34;tabpanel&#34; aria-labelled-by=&#34;tabs-04-01-tab&#34;&gt;
+        &lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;The name of this item changes depending on your class.&lt;br&gt;
+Using an Ultimate Weapon Reform Stone gives it 10% special attack damage.&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;img src=&#34;https://keswiik.github.io/gearless-nw-handbook/gear/Green_AP_Offhand.png&#34; alt=&#34;Green AP Offhand&#34;&gt;&lt;/p&gt;
+
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
