@@ -40,12 +40,12 @@ Either a team lead, or someone appointed by a team lead, will make themselves a 
 {{%expand "How to check if you have Channel Commander" %}}
 You call tell if you're a channel commander by looking at the icon next to your name in Teamspeak - if it's yellow, you can use it.
 
-![Channel Commander Example](../_images/TS3_Channel_Commander.png)
+![Channel Commander Example](/TS3_Channel_Commander.png)
 
 <br>
 If you are not a channel commander and need cross-comms access, right-click on your name and click the "Channel Commander" option.
 
-![Channel Commander Context Menu](../_images/TS3_CC_Context_Menu.png)
+![Channel Commander Context Menu](/TS3_CC_Context_Menu.png)
 
 <br>
 If this option doesn't appear, or you can't click it, ask someone in leadership to give you perms in Teamspeak.
@@ -56,11 +56,11 @@ If this option doesn't appear, or you can't click it, ask someone in leadership 
 Hotkeys will differ depending on whether or not you primarily talk in Teamspeak (special teams) or discord (main ball).
 
 ### Changing Discord Hotkeys
-Click on `Settings` > `Keybinds`, and then ![Add a Hotkey](../_images/Discord_Add_Keybinds_Button.png).
+Click on `Settings` > `Keybinds`, and then ![Add a Hotkey](/Discord_Add_Keybinds_Button.png).
 
 ### Changing Teamspeak Hotkeys
-Click on `Tools` > `Options` > `Hotkeys`, and then ![Add](../_images/TS3_Add_Hotkey_Button.png) a new hotkey.  
-Click on ![Show Advanced Actions](../_images/TS3_Advanced_Hotkeys_Button.png) to show the full list of options.
+Click on `Tools` > `Options` > `Hotkeys`, and then ![Add](/TS3_Add_Hotkey_Button.png) a new hotkey.  
+Click on ![Show Advanced Actions](/TS3_Advanced_Hotkeys_Button.png) to show the full list of options.
 
 {{%expand "Recommended Special Teams Hotkeys" %}}
 <span style="font-size: 1.5rem;">General Members</span>  

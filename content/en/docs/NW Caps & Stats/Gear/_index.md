@@ -14,33 +14,33 @@ You'll want to stack HP, attack modifiers, and special attack evasion when doing
 {{< tabpane text=true >}}
 {{< tab header="HP Crystals:" disabled=true />}}
 {{% tab header="Rebellious Spirit Crystal" %}}
-![Rebellious Spirit Crystal](../../_images/crystals/Rebellious_Spirit_Crystal.png)
+![Rebellious Spirit Crystal](/crystals/Rebellious_Spirit_Crystal.png)
 {{% /tab %}}
 {{% tab header="HAN Hoom" %}}
 {{% pageinfo %}}
 You need to run either **TWO** or **FOUR** of these due to the set effect, which is where most of the HP comes from.
 {{% /pageinfo %}}
-![HAN Hoom](../../_images/crystals/HAN_Hoom.png)
+![HAN Hoom](/crystals/HAN_Hoom.png)
 {{% /tab %}}
 {{% tab header="BON Cobelinus" %}}
-![BON Cobelinus](../../_images/crystals/BON_Cobelinus.png)
+![BON Cobelinus](/crystals/BON_Cobelinus.png)
 {{% /tab %}}
 {{% tab header="RBF Cobelinus" %}}
-![RBF Cobelinus](../../_images/crystals/RBF_Cobelinus.png)
+![RBF Cobelinus](/crystals/RBF_Cobelinus.png)
 {{% /tab %}}
 {{< /tabpane >}}
 
 {{< tabpane text=true >}}
 {{< tab header="Special Evasion Crystals:" disabled=true />}}
 {{% tab header="JIN Special Evasion" %}}
-![JIN Special Evasion](../../_images/crystals/JIN_Special_Evasion.png)
+![JIN Special Evasion](/crystals/JIN_Special_Evasion.png)
 {{% /tab %}}
 {{< /tabpane >}}
 
 {{< tabpane text=true >}}
 {{< tab header="DMG Modifier Crystals:" disabled=true />}}
 {{% tab header="Corrupted Magic Crystal" %}}
-![Corrupted Magic Crystal](../../_images/crystals/Corrupted_Magic_Crystal.png)
+![Corrupted Magic Crystal](/crystals/Corrupted_Magic_Crystal.png)
 {{% /tab %}}
 {{< /tabpane >}}
 
@@ -53,7 +53,7 @@ There are two different accessories you can buy in trent that give special attac
 {{% pageinfo %}}
 **MANDATORY** for all capped content. These are extremely important to have and cheap to buy. You're griefing yourself and your guildies if you don't equip them.
 {{% /pageinfo %}}
-![Chimera's Pupil Gem](../../_images/gear/Chimeras_Pupil_Gem.png)
+![Chimera's Pupil Gem](/gear/Chimeras_Pupil_Gem.png)
 {{% /tab %}}
 {{% tab header="Kaia Necklace" %}}
 {{% pageinfo %}}
@@ -61,7 +61,7 @@ There are two different accessories you can buy in trent that give special attac
 Can be useful on T2s, but you're sacrificing HP.  
 Have to be extremely geared in order to equip them on T3s as the caps are higher.
 {{% /pageinfo %}}
-![Kaia Necklace](../../_images/gear/Kaia_Necklace.png)
+![Kaia Necklace](/gear/Kaia_Necklace.png)
 {{% /tab %}}
 {{< /tabpane >}}
 
@@ -73,6 +73,6 @@ Have to be extremely geared in order to equip them on T3s as the caps are higher
 The name of this item changes depending on your class.  
 Using an Ultimate Weapon Reform Stone gives it 10% special attack damage.
 {{% /pageinfo %}}
-![Green AP Offhand](../../_images/gear/Green_AP_Offhand.png)
+![Green AP Offhand](/gear/Green_AP_Offhand.png)
 {{% /tab %}}
 {{< /tabpane >}}

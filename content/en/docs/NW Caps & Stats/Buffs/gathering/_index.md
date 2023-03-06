@@ -24,7 +24,7 @@ At higher farming masteries, you'll also have a chance to get a "Mysterious Seed
 
 {{% expand "Velia Farm Plot Location" %}}
 The South-Western exit of Velia, near Eileen and Dalishain, is an ideal spot for farming plots.
-![Velia Farming Plot Location](../../../_images/Velia_Farm_Plot_Location.jpg)
+![Velia Farming Plot Location](/Velia_Farm_Plot_Location.jpg)
 {{% /expand %}}
 
 **Breed your crops do not gather them!**

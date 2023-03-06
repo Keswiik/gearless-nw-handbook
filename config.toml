@@ -53,6 +53,7 @@ anchor = "smart"
 
 # Language configuration
 
+staticDir = ['static']
 [languages]
 [languages.en]
 title = "Gearless NW Handbook"
