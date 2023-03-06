@@ -1,0 +1,399 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gearless NW Handbook – Buffs</title><link>https://keswiik.github.io/gearless-nw-handbook/docs/nw-caps-stats/buffs/</link><description>Recent content in Buffs on Gearless NW Handbook</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://keswiik.github.io/gearless-nw-handbook/docs/nw-caps-stats/buffs/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: Elixirs</title><link>https://keswiik.github.io/gearless-nw-handbook/docs/nw-caps-stats/buffs/elixirs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://keswiik.github.io/gearless-nw-handbook/docs/nw-caps-stats/buffs/elixirs/</guid><description>
+&lt;div class="pageinfo pageinfo-primary">
+&lt;p>Ignore this page unless you wanna be really sweaty.&lt;/p>
+&lt;/div>
+&lt;p>Running a full elixir rotation is going to be considerably more expensive than popping a Giant&amp;rsquo;s Draught, and it&amp;rsquo;ll require you do a fair amount of farming / gathering as some mats are always sold out on the CM.&lt;br>
+&lt;br>
+If you want to get into elixirs, though, here are some example setups based on tier and build.&lt;/p>
+&lt;div id="t1-elixir-rotation" class="md-expand">
+&lt;label for="expander-169">
+&lt;div class="md-expand-head">
+&lt;span>T1 Elixir Rotation&lt;/span>
+&lt;/div>
+&lt;/label>
+&lt;input id="expander-169" type="checkbox" class="hidden" />
+&lt;div class="md-expand-content markdown-inner">
+&lt;div class="md-content">
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Name&lt;/th>
+&lt;th>Notes&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Elixir of Clear Mentality&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Elixir of Overwhelming Endurance&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Surging Energy Elixir&lt;/td>
+&lt;td>Optional&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Strong Resurrection Elixir&lt;/td>
+&lt;td>Optional&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Elixir of Strong Shock&lt;/td>
+&lt;td>Optional&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Elixir of Intrepid Swiftness&lt;/td>
+&lt;td>Optional&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Elixir of Agile Spells&lt;/td>
+&lt;td>Optional&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Elixir of Flowing Wind&lt;/td>
+&lt;td>Optional&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Elixir of Lethal Destruction&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Elixir of Brutal Carnage&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Merciless Sky Elixir&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Elixir of Lethal Assassin&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Elixir of Sharp Detection&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Grim Soul Reaper’s Elixir&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Elixir of Strong Draining&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Elixir of Brutal Perforation&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>Overall, you get the following stats:&lt;/p>
+&lt;ul>
+&lt;li>Max MP +150&lt;/li>
+&lt;li>Max Stamina +150&lt;/li>
+&lt;li>MP Auto Recovery +15&lt;/li>
+&lt;li>HP Recovery +15&lt;/li>
+&lt;li>Critical Hit +3&lt;/li>
+&lt;li>Attack Speed +3&lt;/li>
+&lt;li>Casting Speed +3&lt;/li>
+&lt;li>Movement Speed +3&lt;/li>
+&lt;li>Down Attack Damage +17%&lt;/li>
+&lt;li>Air Attack Damage +17%&lt;/li>
+&lt;li>Back Attack Damage +17%&lt;/li>
+&lt;li>Critical Hit Damage +17%&lt;/li>
+&lt;li>Recover +5 HP per Critical Hit&lt;/li>
+&lt;li>Recover +3 HP per hit&lt;/li>
+&lt;li>Defense Nullifying Damage +10 per Back Attack&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div id="t2-3-elixir-rotation" class="md-expand">
+&lt;label for="expander-603">
+&lt;div class="md-expand-head">
+&lt;span>T2-3 Elixir Rotation&lt;/span>
+&lt;/div>
+&lt;/label>
+&lt;input id="expander-603" type="checkbox" class="hidden" />
+&lt;div class="md-expand-content markdown-inner">
+&lt;div class="md-content">
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Name&lt;/th>
+&lt;th>Notes&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Elixir of Clear Mentality&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Elixir of Overwhelming Endurance&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Elixir of Strong Life&lt;/td>
+&lt;td>HP isn&amp;rsquo;t capped on T2+ nodes&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Surging Energy Elixir&lt;/td>
+&lt;td>Optional&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Strong Resurrection Elixir&lt;/td>
+&lt;td>Optional&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Elixir of Strong Shock&lt;/td>
+&lt;td>Optional&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Elixir of Intrepid Swiftness&lt;/td>
+&lt;td>Optional&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Elixir of Agile Spells&lt;/td>
+&lt;td>Optional&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Elixir of Flowing Wind&lt;/td>
+&lt;td>Optional&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Elixir of Lethal Destruction&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Elixir of Brutal Carnage&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Merciless Sky Elixir&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Elixir of Lethal Assassin&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Elixir of Sharp Detection&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Grim Soul Reaper’s Elixir&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Elixir of Strong Draining&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Elixir of Brutal Perforation&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Splendid Helix Elixir&lt;/td>
+&lt;td>Optional - Useful for DR Builds&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>Overall, you get the following stats:&lt;/p>
+&lt;ul>
+&lt;li>Max HP +150&lt;/li>
+&lt;li>Max MP +150&lt;/li>
+&lt;li>Max Stamina +150&lt;/li>
+&lt;li>MP Auto Recovery +15&lt;/li>
+&lt;li>HP Recovery +15&lt;/li>
+&lt;li>Critical Hit +3&lt;/li>
+&lt;li>Attack Speed +3&lt;/li>
+&lt;li>Casting Speed +3&lt;/li>
+&lt;li>Movement Speed +3&lt;/li>
+&lt;li>Down Attack Damage +17%&lt;/li>
+&lt;li>Air Attack Damage +17%&lt;/li>
+&lt;li>Back Attack Damage +17%&lt;/li>
+&lt;li>Critical Hit Damage +17%&lt;/li>
+&lt;li>Recover +5 HP per Critical Hit&lt;/li>
+&lt;li>Recover +3 HP per hit&lt;/li>
+&lt;li>Defense Nullifying Damage +10 per Back Attack&lt;/li>
+&lt;li>All Evasion +12&lt;/li>
+&lt;/ul>
+&lt;p>The Helix elixir can help DR builds get closer to the evasion cap. Most evasion players will meet both the DR and evasion cap.&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div id="t4-uncapped-elixir-rotation" class="md-expand">
+&lt;label for="expander-676">
+&lt;div class="md-expand-head">
+&lt;span>T4 Uncapped Elixir Rotation&lt;/span>
+&lt;/div>
+&lt;/label>
+&lt;input id="expander-676" type="checkbox" class="hidden" />
+&lt;div class="md-expand-content markdown-inner">
+&lt;div class="md-content">
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Name&lt;/th>
+&lt;th>Notes&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Elixir of Clear Mentality&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Elixir of Overwhelming Endurance&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Elixir of Strong Life&lt;/td>
+&lt;td>HP isn&amp;rsquo;t capped on T2+ nodes&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Strong Resurrection Elixir&lt;/td>
+&lt;td>Optional&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Surging Energy Elixir&lt;/td>
+&lt;td>Optional&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Elixir of Strong Shock&lt;/td>
+&lt;td>Optional&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Elixir of Intrepid Swiftness&lt;/td>
+&lt;td>Optional&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Elixir of Lethal Destruction&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Elixir of Brutal Carnage&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Merciless Sky Elixir&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Elixir of Lethal Assassin&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Elixir of Sharp Detection&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Grim Soul Reaper’s Elixir&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Elixir of Strong Draining&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Elixir of Brutal Perforation&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Splendid Helix Elixir&lt;/td>
+&lt;td>Ignore if DR&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Elixir of Steel Defense&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Elixir of Endless Frenzy&lt;/td>
+&lt;td>Pick between this and Fury&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Elixir of Endless Fury&lt;/td>
+&lt;td>Less AP but no -DR like Frenzy&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Elixir of Perfect Human Hunt&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>Too many things to pick between to bother giving total stats.&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;/div></description></item><item><title>Docs: Gathering for Buffs and Elixirs</title><link>https://keswiik.github.io/gearless-nw-handbook/docs/nw-caps-stats/buffs/gathering/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://keswiik.github.io/gearless-nw-handbook/docs/nw-caps-stats/buffs/gathering/</guid><description>
+&lt;p>Some buffs require mats that are rare and are always sold out on the CM. If you want them, you&amp;rsquo;ll have to learn to gather the mats and craft them yourself.&lt;/p>
+&lt;h2 id="elixir-of-detection">Elixir of Detection&lt;/h2>
+&lt;p>This is the hardest to acquire elixir because it requires Truffle Mushrooms which only spawn in secret unmarked caves around the map.&lt;br>
+It&amp;rsquo;s also one of the most important elixirs.&lt;/p>
+&lt;p>1250+ gathering mastery is recommended if you do this. If you&amp;rsquo;re only getting 1 truffle per gather then you&amp;rsquo;re wasting your time.&lt;/p>
+&lt;p>&lt;a href="https://grumpygreen.cricket/truffle-mushroom/">Here&amp;rsquo;s a guide for truffle mushroom locations&lt;/a>.&lt;/p>
+&lt;h2 id="fruits-of-x">Fruits of X&lt;/h2>
+&lt;p>You get these through farming. Master+ farming is ideal, but you&amp;rsquo;ll get them at any level.&lt;br>
+&lt;br>
+If you&amp;rsquo;re not familiar with farming, you&amp;rsquo;ll want to rent 10x10 farming plots and work your way up to having all magical seeds of the crop you choose to farm. This will require 100CP.&lt;br>
+&lt;br>
+At higher farming masteries, you&amp;rsquo;ll also have a chance to get a &amp;ldquo;Mysterious Seed&amp;rdquo;, which can give 30+ Fruit when bred.&lt;/p>
+&lt;div id="velia-farm-plot-location" class="md-expand">
+&lt;label for="expander-379">
+&lt;div class="md-expand-head">
+&lt;span>Velia Farm Plot Location&lt;/span>
+&lt;/div>
+&lt;/label>
+&lt;input id="expander-379" type="checkbox" class="hidden" />
+&lt;div class="md-expand-content markdown-inner">
+&lt;div class="md-content">
+&lt;p>The South-Western exit of Velia, near Eileen and Dalishain, is an ideal spot for farming plots.
+&lt;img src="https://keswiik.github.io/gearless-nw-handbook/gearless-nw-handbook/Velia_Farm_Plot_Location.jpg" alt="Velia Farming Plot Location">&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;p>&lt;strong>Breed your crops do not gather them!&lt;/strong>&lt;/p>
+&lt;p>To figure out what crops to plant, click on one of the respective fruit&amp;rsquo;s links in the table below, then select the &amp;ldquo;Farming product&amp;rdquo; tab at the bottom of the window in BDO Codex.&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Fruit&lt;/th>
+&lt;th>BDO Codex link for crops&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Fruit of Crimson Flame&lt;/td>
+&lt;td>&lt;a href="https://bdocodex.com/us/item/5201/">BDO Codex - Fruit of Crimson Flame&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Fruit of Abundance&lt;/td>
+&lt;td>&lt;a href="https://bdocodex.com/us/item/5203/">BDO Codex - Fruit of Abundance&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Fruit of Nature&lt;/td>
+&lt;td>&lt;a href="https://bdocodex.com/us/item/5205/">BDO Codex - Fruit of Nature&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Fruit of the Sun&lt;/td>
+&lt;td>&lt;a href="https://bdocodex.com/us/item/5207/">BDO Codex - Fruit of the Sun&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Fruit of Enchantment&lt;/td>
+&lt;td>&lt;a href="https://bdocodex.com/us/item/5209/">BDO Codex - Fruit of Enchantment&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Fruit of Magic Power&lt;/td>
+&lt;td>&lt;a href="https://bdocodex.com/us/item/5211/">BDO Codex - Fruit of Magic Power&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Fruit of Perfection&lt;/td>
+&lt;td>&lt;a href="https://bdocodex.com/us/item/5213/">BDO Codex - Fruit of Perfection&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Fruit of Destruction&lt;/td>
+&lt;td>&lt;a href="https://bdocodex.com/us/item/5215/">BDO Codex - Fruit of Destruction&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item></channel></rss>

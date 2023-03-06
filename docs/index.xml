@@ -1,16 +1,1 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Gearless NW Handbook – Gearless Nodewar Handbook</title>
-    <link>https://keswiik.github.io/gearless-nw-handbook/</link>
-    <description>Recent content in Gearless Nodewar Handbook on Gearless NW Handbook</description>
-    <generator>Hugo -- gohugo.io</generator>
-    
-	  <atom:link href="https://keswiik.github.io/gearless-nw-handbook/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-      
-      
-    
-    
-  </channel>
-</rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gearless NW Handbook – Getting Started</title><link>https://keswiik.github.io/gearless-nw-handbook/docs/</link><description>Recent content in Getting Started on Gearless NW Handbook</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://keswiik.github.io/gearless-nw-handbook/docs/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
